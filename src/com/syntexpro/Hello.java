@@ -10,6 +10,8 @@ public class Hello {
 
         System.out.printf("");
 
+        System.out.println();
+
 
     }
 }
